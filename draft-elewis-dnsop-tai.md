@@ -23,7 +23,7 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-elewis-dnsop-tai
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Edward Lewis
+    organization: ICANN
+    email: edward.lewis@icann.org.
 
 normative:
 
@@ -56,7 +56,9 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is an addition to the DNS and DNSSEC protocol to convey trust anchor information from the zone administration to DNSSEC validating resolvers.
+
+This is intended to replace the use of Automated Updates of DNSSEC Trust Anchors, STD 74.  This document will describe Trust Anchor Indicators and why this replacement is needed.
 
 
 --- middle
