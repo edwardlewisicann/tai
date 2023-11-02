@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Trust Anchor Indicator"
+abbrev: "TAI"
 category: info
 
 docname: draft-elewis-dnsop-tai-latest
@@ -45,7 +45,7 @@ This is intended to replace the use of Automated Updates of DNSSEC Trust Anchors
 
 # Introduction
 
-TODO Introduction
+Trust Anchor Indicator is a replacement for Automated Updates of DNSSEC Trust Anchors, motivated by some deficiencies in the existing standardized approach.  This document will first describe what trust anchor indication is and what is required, second describe the protocol extension, and finally cover the reasons why this is proposed to replace the existing mechanism.
 
 
 # Conventions and Definitions
